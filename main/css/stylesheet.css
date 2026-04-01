@@ -3,6 +3,11 @@
   color: green;
 }
 
+.banner-option {
+  display: inline-block;
+  color: gray;
+}
+
 body {
   background-color: palegreen;
 }
