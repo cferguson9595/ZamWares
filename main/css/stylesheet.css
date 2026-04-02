@@ -2,11 +2,7 @@
   display: block;
   background-color: orange;
   width: 100%;
-  border: solid;
-}
-
-.banner a {
-  text-align: right;
+  border: solid 3px;
 }
 
 .banner-option {
@@ -16,4 +12,8 @@
 
 body {
   background-color: palegreen;
+}
+
+h1 {
+  text-align: center;
 }
