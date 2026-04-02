@@ -1,14 +1,19 @@
 .banner {
   display: block;
-  color: green;
+  background-color: orange;
+  width: 100%;
+  border: solid;
+}
+
+.banner a {
+  text-align: right;
 }
 
 .banner-option {
   display: inline-block;
-  color: gray;
+  color: green;
 }
 
 body {
   background-color: palegreen;
 }
-
