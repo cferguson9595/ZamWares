@@ -9,6 +9,8 @@
   display: inline-block;
   color: green;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
+  font-size: 18px;
+  text-decoration: none;
 }
 
 body {
@@ -27,5 +29,9 @@ img {
 
 .footer {
   text-align: center;
+  text-decoration: none;
+}
+
+a {
   text-decoration: none;
 }
