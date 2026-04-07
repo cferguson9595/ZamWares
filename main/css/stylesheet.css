@@ -3,14 +3,16 @@
   background-color: orange;
   width: 100%;
   border: solid 3px;
+  max-height: 55px;
 }
 
 .banner-option {
   display: inline-block;
   color: green;
   font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   text-decoration: none;
+  padding-bottom: 5px;
 }
 
 body {
