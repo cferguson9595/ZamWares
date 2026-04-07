@@ -8,6 +8,7 @@
 .banner-option {
   display: inline-block;
   color: green;
+  font-family: Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif;
 }
 
 body {
