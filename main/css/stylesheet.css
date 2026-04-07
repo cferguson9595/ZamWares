@@ -8,6 +8,7 @@
 .banner-option {
   display: inline-block;
   color: green;
+  text-align: center;
 }
 
 body {
