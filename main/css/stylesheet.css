@@ -16,7 +16,8 @@
 }
 
 body {
-  background-color: palegreen;
+  /*background-color: palegreen;*/
+  background: linear-gradient(to right, green, black, red, orange);
 }
 
 h1 {
